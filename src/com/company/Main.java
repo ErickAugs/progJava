@@ -13,7 +13,7 @@ public class Main {
         j = sc.next();
         z = sc.nextInt();
         y = sc.nextDouble();
-        System.out.println("Voce digitou: " + j);
+        System.out.println("Voce digitouu: " + j);
         System.out.println("Voce digitou: " + z);
         System.out.println("Voce digitou: " + y);
 
